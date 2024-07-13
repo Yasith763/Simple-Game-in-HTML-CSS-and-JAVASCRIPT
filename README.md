@@ -1,4 +1,4 @@
-Sure, here's a README template for your HTML simple game project that you can use on GitHub:
+
 
 ---
 
